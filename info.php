@@ -1,5 +1,5 @@
 <?php
-	echo "Test<br />";
+	echo "Test<br />haha<br />test";
 	
 	phpinfo();
 ?>
